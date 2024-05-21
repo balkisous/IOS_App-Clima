@@ -4,7 +4,7 @@
 
 ## Goal's Project 🎯
 
-This project introduce me to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. 
+This project introduced me to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the Internet. 
 
 ## What I create 🧱
 
