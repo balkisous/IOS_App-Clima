@@ -6,11 +6,11 @@
 
 This project introduced me to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the Internet. 
 
-## What I create 🧱
+## What I created 🧱
 
 By the end of the module, I have made a beautiful, dark-mode enabled weather app. I am able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
-## What I learn 📖
+## What I learned 📖
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
